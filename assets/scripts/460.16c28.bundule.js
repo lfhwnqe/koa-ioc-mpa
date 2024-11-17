@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyd_interface=self.webpackChunkyd_interface||[]).push([[460],{460:(e,s,c)=>{c.r(s),c.d(s,{default:()=>t});var n=c(70),r=c(778);const t=()=>(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(r.mg,{children:(0,n.jsx)("title",{children:"🐻🐻🐻一灯SPA架构-测试"})}),(0,n.jsx)("h1",{children:"测试页"})]})}}]);
