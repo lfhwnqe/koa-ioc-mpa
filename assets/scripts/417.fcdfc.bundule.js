@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspa_temp=self.webpackChunkspa_temp||[]).push([[417],{417:(e,s,t)=>{t.r(s),t.d(s,{default:()=>h});var a=t(848),c=t(902);const h=()=>(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(c.mg,{children:(0,a.jsx)("title",{children:"mpa-测试"})}),(0,a.jsx)("h1",{children:"测试页"})]})}}]);
